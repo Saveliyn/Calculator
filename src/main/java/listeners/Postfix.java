@@ -1,3 +1,5 @@
+package listeners;
+
 import java.util.LinkedList;
 import java.util.Stack;
 import java.util.regex.Matcher;
@@ -15,7 +17,9 @@ public class Postfix {
         operators.add("/");
         operators.add("*");
         operators.add("^");
-        //operators.add("%");
+        operators.add("√");
+        operators.add("∛");
+        operators.add("%ё");
     }
 
     public static String convert(String mathInfix) {
@@ -49,7 +53,7 @@ public class Postfix {
 
     private static int getOperatorPriority(String operator) {
         return switch (operator) {
-            case "^" -> 3;
+            case "^", "√", "∛", "%" -> 3;
             case "*", "/" -> 2;
             case "+", "-" -> 1;
             default -> 0;
@@ -57,8 +61,6 @@ public class Postfix {
     }
 
     static boolean isNumeric(String mathElement) {
-        //Pattern patternDigit = Pattern.compile(getPatternStringDigits());
-        //return patternDigit.matcher(mathElement).find();
         return mathElement.matches(getPatternStringDigits());
     }
 

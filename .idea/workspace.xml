@@ -1,11 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="932496a1-09aa-4101-9b69-429f379034cc" name="Changes" comment="" />
+    <list default="true" id="932496a1-09aa-4101-9b69-429f379034cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ApplicationForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ApplicationForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/components/NumberJButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/components/NumberJButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/components/OperatorJButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/components/OperatorJButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/ButtonListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/ButtonListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/CalcListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/CalcListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/Calculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/ClearButtonActionListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/ClearButtonActionListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/CloseBracketListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/CloseBracketListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/DelListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/DelListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/ExitButtonListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/ExitButtonListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/NullListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/NullListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/OpenBracketListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/OpenBracketListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/OperatorListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/OperatorListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/PointListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/PointListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/Postfix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/Postfix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/TestButtonListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/TestButtonListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/listeners/TopPriorityOperatorListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listeners/TopPriorityOperatorListener.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/ApplicationForm.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/listeners/ButtonListener.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/listeners/DelListener.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/listeners/ExitButtonListener.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/listeners/NullListener.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/listeners/OpenBracketListener.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/listeners/OperatorListener.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/listeners/PointListener.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/listeners/Postfix.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/listeners/TopPriorityOperatorListener.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AObpK9jX3G0NjMhLFBLrC4Tzrv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,9 +68,33 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/mvideo751/IdeaProjects/patterns-march-2"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="listeners.Postfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listeners.Postfix" />
+      <module name="untitled16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.listeners.Postfix" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
